@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplemod",
+  "name": "Simple Mod",
+  "description": "Simple mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nsmihalkov"],
+  "credits": "The Forge and FML guys, for making this simple mod",
+  "logoFile": "assets/simplemod/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
